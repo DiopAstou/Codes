@@ -1,0 +1,70 @@
+	button{
+		border: 3px  red solid;
+		border-radius: 30px / 20px;
+
+	}
+	 #haut{
+	 	width: 1550px;
+	 	height: 200px;
+	 }
+#haut ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+#haut li{
+	display: inline;
+	font-family: Arial, helvetica, sans-seirf;
+	padding-top: 5px
+	padding-right: 10px;
+	padding-left: 10px; 
+	font-weight: bold;
+}
+#haut button{
+	background-color: red;
+	width: 150px;
+	height: 3s0px;
+	color: white;
+}
+#page{
+	width: 940px;
+	padding-top: 0px;
+	margin-top: 0px;
+
+margin-right: auto;
+margin-left: auto;
+}
+#section1{
+
+padding: 0px;
+	margin: 0px;
+	padding-right: auto;
+	margin-left: auto;
+	width: 1555px;
+	height: 400px;
+	background-color: #000066;	
+}
+#section2 ul img{
+display: inline;
+float: left;
+height: 200px;
+width: 196px;
+padding-top: 5px;
+padding-right: 150px;
+padding-left: 150px;
+margin: 0px;         
+   }
+
+#section2{
+
+padding: 0px;
+	margin: 0px;
+	padding-right: auto;
+	margin-left: auto;
+	width: 1330px;
+	height: 200px;
+	background-color: red;
+  }
+  #section1 h2{
+  	color: white;
+font-weight:  center;

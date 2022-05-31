@@ -1,0 +1,34 @@
+.image{
+float: right;}
+#pied{
+	width: 1550px;
+	height: 150px;
+	background-color: #000066;
+}
+ #pied p {
+ 	color: white;
+justify-content: center;
+ }
+#section2{
+	background-color: red;
+	width: 1530px;
+	height: 300px;
+}
+#section2 h2{
+	color: white;
+}
+#section1 .bloc{
+width: 300px;
+margin-right: 10px;
+background-color:  #000066;
+float: right;
+
+}
+#section1 h4{
+	color: white;
+}
+
+.bloc button{
+	background-color: red,
+	
+}
